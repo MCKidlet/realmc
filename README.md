@@ -1,2 +1,2 @@
 # RealMC
-![BetterMC Modpack First Edition](https://i.imgur.com/8rTEBp8.png)
+![RealMC First Edition](https://github.com/MCKidlet/realmc/blob/main/minecraft_title.png?raw=true)
