@@ -1,4 +1,4 @@
 # bettermc
 better mc modpack
 
-![BetterMC Modpack First Edition](https://imgur.com/8rTEBp8)
+![BetterMC Modpack First Edition](https://i.imgur.com/8rTEBp8.png)
